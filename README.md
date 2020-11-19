@@ -1,5 +1,4 @@
-
-Hi ![](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif), I'm Arpit Garg
+<h1 align="center">Hi 👋, I'm Arpit Garg</h1>
 <h3 align="center">I am a final year Master of Data Science student at The University of Adelaide. My research areas are Generative Adeversarial Networks (GANs) and I am focusing on Unpaired Image to Image translation using GANs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2412&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2412" /> </p>
@@ -7,6 +6,8 @@ Hi ![](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gi
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit2412" alt="arpit2412" /></a> </p>
 
 - 🔭 I’m currently working on [Generative Adversarial Networks](https://github.com/arpit2412/Generative-Adversarial-Network-)
+
+- 🌱 I’m currently learning **GANs, PyTorch, Image-to-Image Translation, Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpit2412](https://github.com/arpit2412)
 
