@@ -1,4 +1,4 @@
-![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=10,height=10)/>
 <h1 align="center">Hi , I'm Arpit Garg</h1>
 <h3 align="center">I am a final year Master of Data Science student at The University of Adelaide. My research areas are Generative Adeversarial Networks (GANs) and I am focusing on Unpaired Image to Image translation using GANs.</h3>
 
