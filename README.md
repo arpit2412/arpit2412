@@ -1,21 +1,15 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo2883
-Fork on GitHub496
 <h1 align="center">Hi 👋, I'm Arpit Garg</h1>
-<h3 align="center">I am a final year Master of Data Science student at The University of Adelaide. My research areas are Generative Adeversarial Networks (GANs) and I am focused towards Unpaired Image to Image translation.</h3>
+<h3 align="center">I am a final year Master of Data Science student at The University of Adelaide. My research areas are Generative Adeversarial Networks (GANs) and I am focusing on Unpaired Image to Image translation using GANs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2412&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2412" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit2412" alt="arpit2412" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arpit2412" target="blank"><img src="https://img.shields.io/twitter/follow/arpit2412?logo=twitter&style=for-the-badge" alt="arpit2412" /></a> </p>
-
 - 🔭 I’m currently working on [Generative Adversarial Networks](https://github.com/arpit2412/Generative-Adversarial-Network-)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpit2412](https://github.com/arpit2412)
 
-- 💬 Ask me about **GAN, Computer Vision**
+- 💬 Ask me about **GAN, Computer Vision, Machine Learning, Deep Learning, Programming**
 
 - 📫 How to reach me **arpit.rikki2412@gmail.com**
 
@@ -24,7 +18,7 @@ Fork on GitHub496
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arpit2412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arpit2412" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/arpit2412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/arpit2412" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpit2412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpit2412" height="30" width="40" /></a>
 <a href="https://kaggle.com/arpit2412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arpit2412" height="30" width="40" /></a>
 <a href="https://fb.com/arpit.garg.39395" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arpit.garg.39395" height="30" width="40" /></a>
 <a href="https://instagram.com/arpitrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arpitrick" height="30" width="40" /></a>
