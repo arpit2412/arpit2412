@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://www.youracclaim.com/badges/0ab0e50a-05c2-4f68-b4a7-83560446bbe1/public_url" />
+
 <!--
 **arpit2412/arpit2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
