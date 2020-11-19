@@ -1,4 +1,5 @@
-<h1 align="center">Hi ![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif), I'm Arpit Garg</h1>
+![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+<h1 align="center">Hi , I'm Arpit Garg</h1>
 <h3 align="center">I am a final year Master of Data Science student at The University of Adelaide. My research areas are Generative Adeversarial Networks (GANs) and I am focusing on Unpaired Image to Image translation using GANs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2412&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2412" /> </p>
