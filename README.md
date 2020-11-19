@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpit2412)]
+[![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpit2412)](https://github.com/arpit2412)
 <!--
 **arpit2412/arpit2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
