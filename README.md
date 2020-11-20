@@ -31,9 +31,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit2412&show_icons=true&locale=en&layout=compact" alt="arpit2412" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit2412&show_icons=true&locale=en" alt="arpit2412" /></p>
 
-<h3 align="left">AWS BADGES:</h3>
+<h4 align="left">AWS BADGES:</h4>
 <p><img align="left" src="https://github.com/arpit2412/AWS/blob/main/aws-certified-cloud-practitioner(1).png" width="150" height="150" alt="arpit2412:AWS CCP" /></p>
 
