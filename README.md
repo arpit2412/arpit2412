@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Arpit.rikki2412@gmail.com**
 
-- 📄 Know about my experiences [arpit2412.github.io](arpit2412.github.io)
+- 📄 Know about my experiences [arpit2412.github.io](https://arpit2412.github.io)
 
 - ⚡ Fun fact **Strong Headed**
 
