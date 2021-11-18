@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Garg</h1>
-<h3 align="center">I am a final year Master of Data Science student at The University of Adelaide. My research areas are Generative Adeversarial Networks (GANs) and I am focusing on Unpaired Image to Image translation using GANs. Also, working on Natural Language Processing (Text and Audio). STAY TUNED!!</h3>
+<h3 align="center">I am a PhD candidate at Australian Institute of Machine Learning (AIML), The University of Adelaide. My research areas are Generative Adeversarial Networks (GANs) and I am focusing on Unpaired Image to Image translation using GANs. Also, working on Natural Language Processing (Text and Audio). If you wanna discuss anything you are welcome. STAY TUNED!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2412&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2412" /> </p>
 
