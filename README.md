@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Garg</h1>
-<h3 align="center">I am a PhD candidate at Australian Institute of Machine Learning (AIML), The University of Adelaide. My research areas are Noisy Labels, Generative Adeversarial Networks (GANs) and I am focusing on Unpaired Image to Image translation using GANs. Also, working on Natural Language Processing (Text and Audio). If you wanna discuss anything you are welcome. STAY TUNED!!</h3>
+<h3 align="center">I am a Research Engineer with a Ph.D. specializing in multimodal machine learning, currently working at TikTok where I develop novel multimodal models for Trust & Safety algorithms. My expertise spans Computer Vision, Generative AI, and Large Language Models (LLMs/MLLMs), with publications in prestigious venues including IJCV, ECCV, and WACV</h3>
 <h2 align="center">https://medium.com/@arpit2412</h2>
 <h3 align="center">Learning: Noisy Labels, Deep Learning Mathematics, Blockchain, NFTs</h3>
 
