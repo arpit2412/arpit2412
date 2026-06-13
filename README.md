@@ -1,4 +1,4 @@
-<h1 align="center">Arpit Garg</h1>
+<h1 align="center">Dr Arpit Garg</h1>
 <p align="center"><b>Senior ML / Research Engineer · Ph.D.</b></p>
 <p align="center">LLMs · Multimodal AI · Computer Vision · Machine Unlearning · Efficient Training</p>
 
@@ -26,7 +26,7 @@ Senior ML engineer and published researcher working on large language models, mu
 - **Senior Machine Learning Engineer** at **TikTok** — novel MLLM architectures for Trust & Safety, shipped to production.
 - **Research Fellow** at **AIML, University of Adelaide** and **Visiting Research Scientist** at **CSIRO** — lead investigator on an A$2.1M grant training frontier-scale foundation models on 256× NVIDIA H200 GPUs.
 - **Co-founder** of **[A2.AI](https://a2ai.com.au)** — an applied-AI venture.
-- Previously shipped ML research into VFX pipelines on *Mad Max: Furiosa*, *Deadpool*, *Mickey 17*, *Sonic 3*, and *Sinners* at Rising Sun Pictures.
+- Previously shipped ML research into VFX pipelines on *Mad Max: Furiosa*, *Mortal Kombat II*, *Deadpool*, *Mickey 17*, *Sonic 3*, and *Sinners* at Rising Sun Pictures.
 
 Read the longer story, publications, and interactive explainers at **[arpit2412.github.io](https://arpit2412.github.io)**.
 
@@ -35,7 +35,7 @@ Read the longer story, publications, and interactive explainers at **[arpit2412.
 | | | |
 |---|---|---|
 | 140K+ repo visits | 256× H200 GPUs deployed | A$2.1M grant investigator |
-| 10+ peer-reviewed papers | 6 VFX films shipped | 2 patents (US + UK) |
+| 10+ peer-reviewed papers | 7 VFX films shipped | 2 patents (US + UK) |
 
 ## Selected publications
 
@@ -64,14 +64,16 @@ Machine-learning research shipped into production VFX pipelines at **Rising Sun 
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Furiosa_A_Mad_Max_Saga.jpg" width="170"><br><sub><b>Furiosa: A Mad Max Saga</b><br>2024 · VFX ML Research</sub></td>
-    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg" width="170"><br><sub><b>Deadpool &amp; Wolverine</b><br>2024 · VFX ML Research</sub></td>
-    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" width="170"><br><sub><b>Mickey 17</b><br>2025 · VFX ML Research</sub></td>
+    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Furiosa_A_Mad_Max_Saga.jpg" width="155"><br><sub><b>Furiosa: A Mad Max Saga</b><br>2024 · VFX ML Research</sub></td>
+    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Mortal_Kombat_II_%28film%29_poster.jpg" width="155"><br><sub><b>Mortal Kombat II</b><br>2025 · VFX ML Research</sub></td>
+    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg" width="155"><br><sub><b>Deadpool &amp; Wolverine</b><br>2024 · VFX ML Research</sub></td>
+    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" width="155"><br><sub><b>Mickey 17</b><br>2025 · VFX ML Research</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/0/07/Sonic3-box-us-225.jpg" width="170"><br><sub><b>Sonic the Hedgehog 3</b><br>2024 · VFX ML Research</sub></td>
-    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Sinners_%282025_film%29_poster.jpg" width="170"><br><sub><b>Sinners</b><br>2025 · VFX ML Research</sub></td>
-    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/d/d6/La_Brea_%28TV_series%29_Title_Card.png" width="170"><br><sub><b>La Brea</b><br>2023 · VFX ML Research</sub></td>
+    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Sonic_the_Hedgehog_3_film_poster.jpg" width="155"><br><sub><b>Sonic the Hedgehog 3</b><br>2024 · VFX ML Research</sub></td>
+    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Sinners_%282025_film%29_poster.jpg" width="155"><br><sub><b>Sinners</b><br>2025 · VFX ML Research</sub></td>
+    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/d/d6/La_Brea_%28TV_series%29_Title_Card.png" width="155"><br><sub><b>La Brea</b><br>2023 · VFX ML Research</sub></td>
+    <td align="center" width="25%"></td>
   </tr>
 </table>
 
