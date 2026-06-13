@@ -7,6 +7,7 @@
   <a href="https://scholar.google.com.au/citations?user=KOEnJ14AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
   <a href="https://linkedin.com/in/arpit2412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:arpitg.phd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.imdb.com/name/nm16969018/"><img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
 </p>
 
 <p align="center">
@@ -24,6 +25,7 @@ Senior ML engineer and published researcher working on large language models, mu
 
 - **Senior Machine Learning Engineer** at **TikTok** — novel MLLM architectures for Trust & Safety, shipped to production.
 - **Research Fellow** at **AIML, University of Adelaide** and **Visiting Research Scientist** at **CSIRO** — lead investigator on an A$2.1M grant training frontier-scale foundation models on 256× NVIDIA H200 GPUs.
+- **Co-founder** of **[A2.AI](https://a2ai.com.au)** — an applied-AI venture.
 - Previously shipped ML research into VFX pipelines on *Mad Max: Furiosa*, *Deadpool*, *Mickey 17*, *Sonic 3*, and *Sinners* at Rising Sun Pictures.
 
 Read the longer story, publications, and interactive explainers at **[arpit2412.github.io](https://arpit2412.github.io)**.
@@ -55,6 +57,23 @@ Full list on [Google Scholar](https://scholar.google.com.au/citations?user=KOEnJ
 - **UK Design Patent (granted, No. 6520933)** — AI-Assisted Rural & Indigenous Healthcare Robot.
 - **ICML 2025 Best Reviewer — Gold Award**.
 - **Invited Speaker**, MLSS Melbourne 2026.
+
+## Film & VFX
+
+Machine-learning research shipped into production VFX pipelines at **Rising Sun Pictures** — deepfake, gaze-estimation, and generative shot work. Credits on [IMDb](https://www.imdb.com/name/nm16969018/).
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Furiosa_A_Mad_Max_Saga.jpg" width="170"><br><sub><b>Furiosa: A Mad Max Saga</b><br>2024 · VFX ML Research</sub></td>
+    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg" width="170"><br><sub><b>Deadpool &amp; Wolverine</b><br>2024 · VFX ML Research</sub></td>
+    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Mickey_17_film_poster.png" width="170"><br><sub><b>Mickey 17</b><br>2025 · VFX ML Research</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/0/07/Sonic3-box-us-225.jpg" width="170"><br><sub><b>Sonic the Hedgehog 3</b><br>2024 · VFX ML Research</sub></td>
+    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Sinners_%282025_film%29_poster.jpg" width="170"><br><sub><b>Sinners</b><br>2025 · VFX ML Research</sub></td>
+    <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/d/d6/La_Brea_%28TV_series%29_Title_Card.png" width="170"><br><sub><b>La Brea</b><br>2023 · VFX ML Research</sub></td>
+  </tr>
+</table>
 
 ## Featured repositories
 
