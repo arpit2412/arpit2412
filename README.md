@@ -62,6 +62,8 @@ Full list on [Google Scholar](https://scholar.google.com.au/citations?user=KOEnJ
 
 Machine-learning research shipped into production VFX pipelines at **Rising Sun Pictures** — deepfake, gaze-estimation, and generative shot work. Credits on [IMDb](https://www.imdb.com/name/nm16969018/).
 
+<p align="center"><img src="assets/filmography.gif" alt="Filmography — scrolling movie posters" width="680"></p>
+
 <table>
   <tr>
     <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Furiosa_A_Mad_Max_Saga.jpg" width="165"><br><sub><b>Furiosa: A Mad Max Saga</b><br>2024 · VFX ML Research</sub></td>
