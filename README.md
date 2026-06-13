@@ -64,7 +64,7 @@ Machine-learning research shipped into production VFX pipelines at **Rising Sun 
 
 <p align="center"><img src="assets/filmography.gif" alt="Filmography — scrolling movie posters" width="680"></p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/3/34/Furiosa_A_Mad_Max_Saga.jpg" width="165"><br><sub><b>Furiosa: A Mad Max Saga</b><br>2024 · VFX ML Research</sub></td>
     <td align="center" width="33%"><img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Mortal_Kombat_II_%28film%29_poster.jpg" width="165"><br><sub><b>Mortal Kombat II</b><br>2025 · VFX ML Research</sub></td>
