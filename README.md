@@ -1,40 +1,82 @@
-<h1 align="center">Hi 👋, I'm Arpit Garg</h1>
-<h3 align="center">I am a Research Engineer with a Ph.D. specializing in multimodal machine learning, currently working at TikTok where I develop novel multimodal models for Trust & Safety algorithms. My expertise spans Computer Vision, Generative AI, and Large Language Models (LLMs/MLLMs), with publications in prestigious venues including IJCV, ECCV, and WACV</h3>
-<h2 align="center">https://medium.com/@arpit2412</h2>
-<h3 align="center">Learning: Noisy Labels, Deep Learning Mathematics, Blockchain, NFTs</h3>
+<h1 align="center">Arpit Garg</h1>
+<p align="center"><b>Senior ML / Research Engineer · Ph.D.</b></p>
+<p align="center">LLMs · Multimodal AI · Computer Vision · Machine Unlearning · Efficient Training</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit2412&label=Profile%20views&color=0e75b6&style=flat" alt="arpit2412" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit2412" alt="arpit2412" /></a> </p>
-
-- 🔭 I’m currently working on [Generative Adversarial Networks](https://github.com/arpit2412/Generative-Adversarial-Network-)
-
-- 🌱 I’m currently learning **GANs, PyTorch, Image-to-Image Translation, Natural Language Processing, Data Science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/arpit2412](https://github.com/arpit2412)
-
-- 💬 Ask me about **GANs, NLP, Image-to-Image Translation, Machine Learning, Deep Learning, Computer Vision, Programming**
-
-- 📫 How to reach me **Arpit.rikki2412@gmail.com**
-
-- 📄 Know about my experiences [arpit2412.github.io](https://arpit2412.github.io)
-
-- ⚡ Fun fact **Strong Headed**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arpit2412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arpit2412" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arpit2412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arpit2412" height="30" width="40" /></a>
-<a href="https://kaggle.com/arpit2412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arpit2412" height="30" width="40" /></a>
-<a href="https://fb.com/arpit.garg.39395" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arpit.garg.39395" height="30" width="40" /></a>
-<a href="https://instagram.com/arpitrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arpitrick" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://arpit2412.github.io"><img src="https://img.shields.io/badge/Portfolio-arpit2412.github.io-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://scholar.google.com.au/citations?user=KOEnJ14AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+  <a href="https://linkedin.com/in/arpit2412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:arpitg.phd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=arpit2412&label=Profile%20views&color=0e75b6&style=flat"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit2412&show_icons=true&locale=en&layout=compact" alt="arpit2412" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit2412&show_icons=true&locale=en" alt="arpit2412" /></p>
+Senior ML engineer and published researcher working on large language models, multimodal AI, computer vision, machine unlearning, and efficient training systems. I focus on taking research-grade ideas all the way into production at scale.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit2412&" alt="arpit2412" /></p>
+- **Senior Machine Learning Engineer** at **TikTok** — novel MLLM architectures for Trust & Safety, shipped to production.
+- **Research Fellow** at **AIML, University of Adelaide** and **Visiting Research Scientist** at **CSIRO** — lead investigator on an A$2.1M grant training frontier-scale foundation models on 256× NVIDIA H200 GPUs.
+- Previously shipped ML research into VFX pipelines on *Mad Max: Furiosa*, *Deadpool*, *Mickey 17*, *Sonic 3*, and *Sinners* at Rising Sun Pictures.
+
+Read the longer story, publications, and interactive explainers at **[arpit2412.github.io](https://arpit2412.github.io)**.
+
+## At a glance
+
+| | | |
+|---|---|---|
+| 140K+ repo visits | 256× H200 GPUs deployed | A$2.1M grant investigator |
+| 10+ peer-reviewed papers | 6 VFX films shipped | 2 patents (US + UK) |
+
+## Selected publications
+
+| Year | Venue | Paper |
+|------|-------|-------|
+| 2026 | **CVPR** (accepted) | SineProject: Machine Unlearning for Stable Vision-Language Alignment |
+| 2026 | NeurIPS (in submission) | LR-LoRA · Mask the Target · Stable Forgetting · STRIDE |
+| 2025 | **TPAMI** (under review) | AEON: Adaptive Estimation of Instance-Dependent ID/OOD Label Noise — [arXiv](https://arxiv.org/abs/2501.13389) |
+| 2025 | **IMAVIS** | PASS: Peer-Agreement Based Sample Selection for Noisy Labels |
+| 2024 | **ECCV** | Instance-Dependent Noisy-Label Learning with Graphical-Model Noise-Rate Estimation |
+| 2023 | **WACV** | Instance-Dependent Noisy-Label Learning via Graphical Modelling |
+| 2021 | **WACV** | Per-VIS: Person Retrieval in Video Surveillance Using Semantic Description |
+
+Full list on [Google Scholar](https://scholar.google.com.au/citations?user=KOEnJ14AAAAJ&hl=en).
+
+## Patents & honors
+
+- **US Provisional Patent** — Attention mechanism for compute- and memory-efficient LLM training (filed 2026).
+- **UK Design Patent (granted, No. 6520933)** — AI-Assisted Rural & Indigenous Healthcare Robot.
+- **ICML 2025 Best Reviewer — Gold Award**.
+- **Invited Speaker**, MLSS Melbourne 2026.
+
+## Featured repositories
+
+- [**InstanceGM**](https://github.com/arpit2412/InstanceGM) — Instance-dependent noisy-label learning via graphical modelling (WACV 2023).
+- [**PASS-NoisyLabel**](https://github.com/arpit2412/PASS-NoisyLabel) — Peer-agreement based sample selection (IMAVIS 2025).
+- [**NoiseRateLearning**](https://github.com/arpit2412/NoiseRateLearning) — Graphical-model-based noise-rate estimation.
+- [**Generative-Adversarial-Network**](https://github.com/arpit2412/Generative-Adversarial-Network-) — A tour of major GAN families.
+- [**arpit2412.github.io**](https://github.com/arpit2412/arpit2412.github.io) — Portfolio and interactive ML explainers.
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+</p>
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpit2412&show_icons=true&locale=en&theme=transparent">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit2412&layout=compact&locale=en&theme=transparent">
+</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit2412&theme=transparent"></p>
