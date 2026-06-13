@@ -58,7 +58,57 @@ Full list on [Google Scholar](https://scholar.google.com.au/citations?user=KOEnJ
 - **ICML 2025 Best Reviewer — Gold Award**.
 - **Invited Speaker**, MLSS Melbourne 2026.
 
-## Film & VFX
+## Experience
+
+### Research Fellow & Visiting Research Scientist — AIML, University of Adelaide · CSIRO
+
+<p>
+  <img src="https://img.shields.io/badge/AIML%20·%20University%20of%20Adelaide-1E40AF?style=flat-square">
+  <img src="https://img.shields.io/badge/CSIRO-009CA6?style=flat-square">
+  <img src="https://img.shields.io/badge/May%202025%20–%20Present-444?style=flat-square">
+  <img src="https://img.shields.io/badge/A$2.1M%20Grant%20Investigator-B8860B?style=flat-square">
+</p>
+
+- **Lead investigator** on an **A$2.1M ResetData grant** to train frontier-scale foundation models (language, multimodal, reasoning) on a **256× NVIDIA H200** cluster.
+- Own end-to-end training methodology, alignment and controllability research, and stability/throughput validation of the multi-million-dollar datacenter.
+- Authored **compute- and memory-efficient LLM training** that cuts wall-clock time and peak GPU memory simultaneously — covered by a **US provisional patent**.
+- Research on **machine unlearning, LoRA / PEFT, and stable vision-language alignment** — accepted at **CVPR 2026** (SineProject), multiple **NeurIPS 2026** submissions, **TPAMI** under review.
+- Joint appointment at **CSIRO** advising on responsible-AI and trustworthy LLM / MLLM systems.
+
+### Senior Machine Learning Engineer — Trust & Safety @ TikTok
+
+<p>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white">
+  <img src="https://img.shields.io/badge/Trust%20%26%20Safety%20Research-444?style=flat-square">
+  <img src="https://img.shields.io/badge/Oct%202024%20–%20Present-444?style=flat-square">
+</p>
+
+Designing and shipping novel **multimodal LLM (MLLM)** architectures for Trust & Safety — production models that reason over image, video, and text together at platform scale.
+
+- Shipped MLLM architectures lifting business-data **AUC by +2–3%**, with a further **+5%** from ensembling and distillation.
+- Own the full production loop — retraining, evaluation, and deployment of safety models — with cross-functional engineering and product teams.
+- Mentor engineers, drive research → engineering handoffs, and co-author top-tier peer-reviewed publications through sustained academic partnerships.
+
+**Vision + language stack**
+
+<p>
+  <img src="https://img.shields.io/badge/SigLIP-5A4FCF?style=flat-square">
+  <img src="https://img.shields.io/badge/CLIP-5A4FCF?style=flat-square">
+  <img src="https://img.shields.io/badge/SAM-5A4FCF?style=flat-square">
+  <img src="https://img.shields.io/badge/Co--DETR-5A4FCF?style=flat-square">
+  <img src="https://img.shields.io/badge/DINOv2-5A4FCF?style=flat-square">
+  <img src="https://img.shields.io/badge/ConvNeXt-5A4FCF?style=flat-square">
+  <img src="https://img.shields.io/badge/Phi-0EA5E9?style=flat-square">
+  <img src="https://img.shields.io/badge/Gemma-0EA5E9?style=flat-square">
+  <img src="https://img.shields.io/badge/Mistral-0EA5E9?style=flat-square">
+</p>
+
+**Architectures & techniques I build on** — modern multimodal designs that inform the Trust & Safety models:
+
+- [**LLaVA-OneVision**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) — a unified large multimodal model spanning single-image, multi-image, and video understanding.
+- [**MoVA**](https://github.com/TempleX98/MoVA) (NeurIPS 2024) — a *mixture of vision experts* that adaptively routes and fuses task-specific encoders via context-aware routing, since no single encoder wins on every image type.
+
+## Film & VFX — Rising Sun Pictures · 2023–2024
 
 Machine-learning research shipped into production VFX pipelines at **Rising Sun Pictures** — deepfake, gaze-estimation, and generative shot work. Credits on [IMDb](https://www.imdb.com/name/nm16969018/).
 
