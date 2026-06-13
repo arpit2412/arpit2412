@@ -9,6 +9,13 @@
   <a href="mailto:arpitg.phd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@AIParameters"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@AIParameters"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"></a>
+  <a href="https://www.instagram.com/AIParameters"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/AIParameters"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
+</p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=arpit2412&label=Profile%20views&color=0e75b6&style=flat"></p>
 
 ## About
