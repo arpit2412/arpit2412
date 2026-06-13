@@ -62,7 +62,7 @@ Full list on [Google Scholar](https://scholar.google.com.au/citations?user=KOEnJ
 
 Machine-learning research shipped into production VFX pipelines at **Rising Sun Pictures** — deepfake, gaze-estimation, and generative shot work. Credits on [IMDb](https://www.imdb.com/name/nm16969018/).
 
-<p align="center"><img src="assets/filmography.gif" alt="Filmography — scrolling movie posters" width="680"></p>
+<p align="center"><img src="assets/filmography-v2.gif" alt="Filmography — scrolling movie posters" width="680"></p>
 
 <table align="center">
   <tr>
