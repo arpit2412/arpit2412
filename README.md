@@ -24,7 +24,7 @@
 Senior ML engineer and published researcher working on large language models, multimodal AI, computer vision, machine unlearning, and efficient training systems. I focus on taking research-grade ideas all the way into production at scale.
 
 - **Senior Machine Learning Engineer** at **TikTok** — novel MLLM architectures for Trust & Safety, shipped to production.
-- **Research Fellow** at **AIML, University of Adelaide** and **Visiting Research Scientist** at **CSIRO** — co-investigator on an A$2.1M grant training frontier-scale foundation models on 256× NVIDIA H200 GPUs.
+- **Research Fellow** at **AIML, University of Adelaide** and **Visiting Research Scientist** at **CSIRO** — co-investigator on an A$1.2M grant training frontier-scale foundation models on 256× NVIDIA H200 GPUs.
 - **Co-founder** of **[A2.AI](https://a2ai.com.au)** — an applied-AI venture.
 - Previously shipped ML research into VFX pipelines on *Mad Max: Furiosa*, *Mortal Kombat II*, *Deadpool*, *Mickey 17*, *Sonic 3*, *Sinners*, *Michael*, and *A Complete Unknown* at Rising Sun Pictures.
 
@@ -34,7 +34,7 @@ Read the longer story, publications, and interactive explainers at **[arpit2412.
 
 | | | |
 |---|---|---|
-| 140K+ repo visits | 256× H200 GPUs deployed | A$2.1M grant co-investigator |
+| 140K+ repo visits | 256× H200 GPUs deployed | A$1.2M grant co-investigator |
 | 10+ peer-reviewed papers | 9 VFX films shipped | 2 patents (US + UK) |
 
 ## Selected publications
@@ -66,10 +66,10 @@ Full list on [Google Scholar](https://scholar.google.com.au/citations?user=KOEnJ
   <img src="https://img.shields.io/badge/AIML%20·%20University%20of%20Adelaide-1E40AF?style=flat-square">
   <img src="https://img.shields.io/badge/CSIRO-009CA6?style=flat-square">
   <img src="https://img.shields.io/badge/May%202025%20–%20Present-444?style=flat-square">
-  <img src="https://img.shields.io/badge/A$2.1M%20Grant%20Co--Investigator-B8860B?style=flat-square">
+  <img src="https://img.shields.io/badge/A$1.2M%20Grant%20Co--Investigator-B8860B?style=flat-square">
 </p>
 
-- **Co-investigator** on an **A$2.1M ResetData grant** to train frontier-scale foundation models (language, multimodal, reasoning) on a **256× NVIDIA H200** cluster.
+- **Co-investigator** on an **A$1.2M ResetData grant** to train frontier-scale foundation models (language, multimodal, reasoning) on a **256× NVIDIA H200** cluster.
 - Own end-to-end training methodology, alignment and controllability research, and stability/throughput validation of the multi-million-dollar datacenter.
 - Authored **compute- and memory-efficient LLM training** that cuts wall-clock time and peak GPU memory simultaneously — covered by a **US provisional patent**.
 - Research on **machine unlearning, LoRA / PEFT, and stable vision-language alignment** — accepted at **CVPR 2026** (SineProject), multiple **NeurIPS 2026** submissions, **TPAMI** under review.
